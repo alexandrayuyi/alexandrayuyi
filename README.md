@@ -7,6 +7,9 @@
   <a href="https://www.instagram.com/alexandrayuyi/">
     <img src="https://img.shields.io/badge/Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+    <a href="https://yuyibits.onrender.com/">
+    <img src="https://img.shields.io/badge/My Webpage-white?style=for-the-badge&logo=web&logoColor=black" alt="Webpage Badge"/>
+  </a>
 </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=alexandrayuyi&style=flat-square&color=blue" alt=""/>
