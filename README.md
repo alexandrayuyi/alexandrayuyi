@@ -31,7 +31,7 @@ I am a Computer Engineering student from Venezuela.
 
 - :earth_americas: I also love travelling and learning new languages (I'm currently learning mandarin), probably because I enjoy meeting and learning the cultures from people from all over the world, and hospitality is one big value for me.
 
-- :inbox_tray: You can reach me at maychangf@gmail.coom for collaboration or inquiries.
+- :inbox_tray: You can reach me at maychangf@gmail.com for collaboration or inquiries.
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
